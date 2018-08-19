@@ -1,0 +1,30 @@
+[
+	{
+		"code": "CH",
+		"value": 1024
+	},
+	{
+		"code": "CZ",
+		"value": 1024
+	},
+	{
+		"code": "DE",
+		"value": 768
+	},
+	{
+		"code": "EU",
+		"value": 1024
+	},
+	{
+		"code": "IE",
+		"value": 1024
+	},
+	{
+		"code": "IR",
+		"value": 1024
+	},
+	{
+		"code": "RU",
+		"value": 1536
+	}
+]

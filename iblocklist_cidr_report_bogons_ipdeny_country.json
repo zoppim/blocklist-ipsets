@@ -1,0 +1,22 @@
+[
+	{
+		"code": "CH",
+		"value": 1024
+	},
+	{
+		"code": "CZ",
+		"value": 1024
+	},
+	{
+		"code": "DE",
+		"value": 512
+	},
+	{
+		"code": "EU",
+		"value": 1024
+	},
+	{
+		"code": "RU",
+		"value": 512
+	}
+]
